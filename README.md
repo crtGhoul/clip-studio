@@ -2,6 +2,8 @@
 
 Make and edit videos in the browser: timeline, voiceover, music, text overlays, and MP4 export (WebM fallback where the browser cannot encode MP4).
 
+**Live:** https://crtghoul.github.io/clip-studio/
+
 ## Use
 
 Open `index.html` on a secure https page — the mic only works on https. Add clips and photos, record a voiceover, add music and text, then Export.
